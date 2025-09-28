@@ -84,4 +84,4 @@ All things Financial: Trading, Market Microstructure, Macro-Trading, Econometric
 82. Derivatives: Convertible Bonds
 83. Fin-AI/ML: Supervised Learning-Forecasting & Prediction (XGBoost, LightGBM, Random Forest, NLP, BERT, LSTM, ANN)
 84. Fin-AI/ML: Unsupervised Learning (K-Means, DBSCAN, PCA, Autoencoders)
-85. Fin-AI/ML: einforcement Learning-Optimal Decision-Making (Q-Learning & Policy Gradients)
+85. Fin-AI/ML: Reinforcement Learning-Optimal Decision-Making (Q-Learning & Policy Gradients)
